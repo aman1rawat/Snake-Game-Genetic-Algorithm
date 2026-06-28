@@ -1,1 +1,1 @@
-# Snake-Game-with-Reinforcement-Learning
+# Snake Game using Genetic Algorithm
